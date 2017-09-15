@@ -1,0 +1,14 @@
+{
+  "name": "stylelint-config-butane",
+  "version": "1.0.0",
+  "description": "Butane shareable config for stylelint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-config"
+  ],
+  "license": "MIT"
+}
