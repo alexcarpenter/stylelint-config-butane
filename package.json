@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-butane",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Butane shareable config for stylelint",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,9 @@
     "stylelint",
     "stylelint-config"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "stylelint": "^8.1.1",
+    "stylelint-scss": "^2.1.0"
+  }
 }
