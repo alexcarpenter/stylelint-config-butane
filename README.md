@@ -16,7 +16,7 @@ Set your stylelint config to:
 
 ```json
 {
-  "extends": "styleline-config-butane"
+  "extends": "stylelint-config-butane"
 }
 ```
 
