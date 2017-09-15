@@ -1,5 +1,7 @@
 # stylelint-config-butane
 
+[![stylelint-config-butane on NPM](https://img.shields.io/npm/v/stylelint-config-butane.svg?style=flat-square)](https://www.npmjs.com/package/stylelint-config-butane)
+
 > Butane shareable config for stylelint.
 
 ## Installation
